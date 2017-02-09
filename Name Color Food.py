@@ -1,0 +1,6 @@
+name = input ("What is your name?  ")
+print("Nice to meet you", name)
+color = input ("What is your favorite color?  ")
+print ("That's a nice color", color)
+food = input ("What's your favorite food?    ")
+print ("sounds yummy")
